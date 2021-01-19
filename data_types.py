@@ -1,6 +1,6 @@
 """
 100 days of Python course
-DAY 1
+DAY 2
 """
 
 # Write a program that adds the digits in a 2 digit number.
